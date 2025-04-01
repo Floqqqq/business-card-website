@@ -1,2 +1,2 @@
 Данный сайт выполнен для лабораторной работы 
-aboudno
+aboudno https://floqqqq.github.io/business-card-website/
